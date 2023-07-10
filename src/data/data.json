@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "character": "Jack Sparrow",
+    "about": "Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean. A captain of equally dubious morality and sobriety, a master of self-promotion and self interest, he ﬁghts a constant and losing battle with his own best tendencies.",
+    "imageUrl": "../assets/images/jacksparrow.jpeg",
+    "factId": "1",
+    "fact": "Johnny Depp as Captain Jack Sparrow"
+  },
+  {
+    "id": 2,
+    "character": "Will Tarner",
+    "about": "Born to a father he did not know was a pirate, Will Turner remains humble and selfless even as he sails the seas to save his father and find his true love Elizabeth Swan.",
+    "imageUrl": "../assets/images/willtarner.jpeg",
+    "factId": "2",
+    "fact": "William 'Will' Turner Jr. is portrayed by Orlando Bloom"
+  },
+  {
+    "id": 3,
+    "character": "Elizabeth Swann",
+    "about": "On board the HMS Dauntless as a young girl, Elizabeth tends to the sole shipwreck survivor who she discovers might be a pirate. Little does she know what lies ahead from this fateful encounter.",
+    "imageUrl": "../assets/images/elizabethswann.jpeg",
+    "factId": "3",
+    "fact": "Elizabeth Swann (later Elizabeth Turner) portrayed by Keira Knightley"
+  },
+  {
+    "id": 4,
+    "character": "Mr. Gibbs",
+    "about": "A superstitious deckhand with muted impatience for authority, Gibbs sails alongside his preferred captain and friend, Jack Sparrow.",
+    "imageUrl": "../assets/images/mrgibbs.jpeg",
+    "factId": ""
+  },
+  {
+    "id": 5,
+    "character": "Barbossa",
+    "about": "Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival in a race to the Fountain of Youth. Hector Barbossa, a vile pirate returned from the dead, is the ultimate survivor. Having lost his leg—and the Black Pearl—Barbossa has traded black and silver for the grand blue and gold uniform of his Majesty’s Royal navy. Now serving as a privateer and commanding the Providence under the Union Jack rather than the Jolly Roger, Barbossa claims to owe his allegiance to King and Country. But is it valor or revenge that pushes Barbosa toward the Fountain of Youth, a rendezvous with Captain Jack, Blackbeard and destiny?",
+    "imageUrl": "../assets/images/barbossa.jpeg",
+    "factId": ""
+  }
+]
